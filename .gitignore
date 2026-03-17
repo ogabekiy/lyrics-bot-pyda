@@ -1,4 +1,13 @@
 __pycache__/
-.env/
-*.db/
+*.pyc
+
+.env
+
+*.db
+
 *.log
+
+venv/
+.env/
+
+.DS_Store
